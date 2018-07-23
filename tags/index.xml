@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HeHe </title>
-    <link>/tags/</link>
+    <link>https://hehe-font.github.io/tags/</link>
     <description>Recent content in Tags on HeHe </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2017 12:04:06 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hehe-font.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>/tags/code/</link>
+      <link>https://hehe-font.github.io/tags/code/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>/tags/code/</guid>
+      <guid>https://hehe-font.github.io/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coffee</title>
-      <link>/tags/coffee/</link>
+      <link>https://hehe-font.github.io/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>/tags/coffee/</guid>
+      <guid>https://hehe-font.github.io/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>/tags/images/</link>
+      <link>https://hehe-font.github.io/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>/tags/images/</guid>
+      <guid>https://hehe-font.github.io/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>/tags/ipsum/</link>
+      <link>https://hehe-font.github.io/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>/tags/ipsum/</guid>
+      <guid>https://hehe-font.github.io/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Words</title>
-      <link>/tags/words/</link>
+      <link>https://hehe-font.github.io/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>/tags/words/</guid>
+      <guid>https://hehe-font.github.io/tags/words/</guid>
       <description></description>
     </item>
     
