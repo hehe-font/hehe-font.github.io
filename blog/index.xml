@@ -6,32 +6,15 @@
     <description>Recent content in Blogs on HeHe Script 🍰</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 14:26:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2018 11:58:39 -0500</lastBuildDate>
     
 	<atom:link href="https://hehe-font.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Multi Lingual</title>
-      <link>https://hehe-font.github.io/blog/multi-lingual/</link>
-      <pubDate>Thu, 26 Jul 2018 14:26:17 +0800</pubDate>
-      
-      <guid>https://hehe-font.github.io/blog/multi-lingual/</guid>
-      <description>We support 30 languages! The following is the complete list. The text is adapted from list of pangrams.
-English
-These violent delights have violent ends.
-Breton
-Yec’hed mat Jakez ! Skarzhit ar gwerennoù-mañ, kavet e vo gwin betek fin ho puhez
-Catalan
-«Dóna amor que seràs feliç!».Això, il·lús company geniüt, ja és un lluït rètol blavís d’onze kWh.
-Gojazni
-đačić s biciklom drži hmelj i finu vatu u džepu nošnje.</description>
-    </item>
-    
-    <item>
       <title>Type School Diary</title>
       <link>https://hehe-font.github.io/blog/type-diary/</link>
-      <pubDate>Tue, 24 Jul 2018 11:58:39 -0500</pubDate>
+      <pubDate>Wed, 25 Jul 2018 11:58:39 -0500</pubDate>
       
       <guid>https://hehe-font.github.io/blog/type-diary/</guid>
       <description>credit: all content and images belong to typeschool and 3type
@@ -52,12 +35,20 @@ Gojazni
     </item>
     
     <item>
-      <title>Startup Ipsum</title>
-      <link>https://hehe-font.github.io/blog/startup-ipsum/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      <title>Multi-lingual</title>
+      <link>https://hehe-font.github.io/blog/multi-lingual/</link>
+      <pubDate>Mon, 23 Jul 2018 14:26:17 +0800</pubDate>
       
-      <guid>https://hehe-font.github.io/blog/startup-ipsum/</guid>
-      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
+      <guid>https://hehe-font.github.io/blog/multi-lingual/</guid>
+      <description>We support 30 languages! The following is the complete list. The text is adapted from list of pangrams.
+English
+These violent delights have violent ends.
+Breton
+Yec’hed mat Jakez ! Skarzhit ar gwerennoù-mañ, kavet e vo gwin betek fin ho puhez
+Catalan
+«Dóna amor que seràs feliç!».Això, il·lús company geniüt, ja és un lluït rètol blavís d’onze kWh.
+Gojazni
+đačić s biciklom drži hmelj i finu vatu u džepu nošnje.</description>
     </item>
     
   </channel>
