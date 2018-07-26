@@ -35,7 +35,24 @@
       <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
       
       <guid>https://hehe-font.github.io/projects/writing/</guid>
-      <description>The addition of diacritical characters to cover Latin alphabets means it’s ready to take on broader challenges.</description>
+      <description>The addition of diacritical characters to cover Latin alphabets means it’s ready to take on broader challenges. See the full demo here.</description>
+    </item>
+    
+    <item>
+      <title>Multi Lingual</title>
+      <link>https://hehe-font.github.io/blog/multi-lingual/</link>
+      <pubDate>Thu, 26 Jul 2018 14:26:17 +0800</pubDate>
+      
+      <guid>https://hehe-font.github.io/blog/multi-lingual/</guid>
+      <description>We support 30 languages! The following is the complete list. The text is adapted from list of pangrams.
+English
+These violent delights have violent ends.
+Breton
+Yec’hed mat Jakez ! Skarzhit ar gwerennoù-mañ, kavet e vo gwin betek fin ho puhez
+Catalan
+«Dóna amor que seràs feliç!».Això, il·lús company geniüt, ja és un lluït rètol blavís d’onze kWh.
+Gojazni
+đačić s biciklom drži hmelj i finu vatu u džepu nošnje.</description>
     </item>
     
     <item>
@@ -54,12 +71,12 @@ I spent my last three days making this typeface, and here it is!</description>
       <pubDate>Tue, 24 Jul 2018 11:58:39 -0500</pubDate>
       
       <guid>https://hehe-font.github.io/blog/type-diary/</guid>
-      <description>#TypeSchool by @3type_cn
+      <description>credit: all content and images belong to typeschool and 3type
+#TypeSchool by @3type_cn
 - DAY ONE - wrote some calligraphy, watched some Hamilton [sic], traced some roman letters, wasted some food.
 - DAY TWO - quick type sketches, critiques, fake Japanese food, then we hugged good bye to adorkable Toshi.
 - DAY THREE - more calligraphy, more quick sketches, more type knowledge, getting more serious 🤔
-- DAY FOUR - latin is not enough.
-- DAY FIVE - starting to draw sketches for the final assignment.</description>
+- DAY FOUR - latin is not enough.</description>
     </item>
     
     <item>
@@ -86,7 +103,8 @@ I spent my last three days making this typeface, and here it is!</description>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       
       <guid>https://hehe-font.github.io/contact/</guid>
-      <description>Currently this font is still under development. If you wish to get the latest version , you can drop me an email. I should be able to reply every evening =)</description>
+      <description>If you want to use this font, you can access it via here.
+Currently this font is still under development. I plan to expand its character set and refine its details. If you have any suggestions or requests , you are welcome drop me an email. I should be able to reply every evening =)</description>
     </item>
     
   </channel>
